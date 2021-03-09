@@ -15,6 +15,10 @@
 ---
 -The project uses front-end and back-end user interfaces aided by CSS, Javascript ,HTML ,Jquery and Bootstrap.
 
+Gh-pages Live link
+---
+- https://kevinwanjohi123.github.io/IP3/
+
 ## Contact Information
 ---
 -Smart Dev can be contacted via +254790367819 and kelvinmaina14@gmail.com.
